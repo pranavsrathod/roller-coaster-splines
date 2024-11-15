@@ -1,9 +1,8 @@
-# CSCI 420 Programming Assignment 2: Simulating a Roller Coaster
+# Simulating a Roller Coaster
 #### Pranav Rathod
-#### psrathod@usc.edu
 
 ## Overview
-In this assignment, you will use Catmull-Rom splines along with OpenGL core profile shader-based lighting and texture mapping to create a roller coaster simulation. You will implement two shaders: one for texture mapping (to render the ground), and one for Phong shading (to render the roller coaster rail). The simulation will run in a first-person view, allowing the user to "ride" the coaster in an immersive environment. As with the previous assignment, you will create an interesting animation after finishing the program itself. This time, the objective of your animation is to show off both your coaster and the features of your program.
+In this assignment, I used Catmull-Rom splines along with OpenGL core profile shader-based lighting and texture mapping to create a roller coaster simulation. I implemented two shaders: one for texture mapping (to render the ground), and one for Phong shading (to render the roller coaster rail). The simulation will run in a first-person view, allowing the user to "ride" the coaster in an immersive environment. I also created an interesting animation after finishing the program itself.
 
 
 ## Setup
